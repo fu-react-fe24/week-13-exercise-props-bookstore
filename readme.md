@@ -8,9 +8,9 @@ Följande komponenter bör finnas med:
 
 - App
 - Header
-- Cart (som ligger i Header)
-- Products
-- Book
+- Cart (som är indikatorn som ligger i Header)
+- BookList
+- BookItem
 
 Använd er av ```books.json``` för data till era objekt. Välj själva vilka delar av objekten ni vill rendera ut. Skissen behöver naturligtvis inte följas, den är bara ett förslag. Som logga kan ni leta upp valfri bild och läsa in, alt. ha en rubriktext istället.
 
