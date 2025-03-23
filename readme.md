@@ -21,6 +21,3 @@ Använd er av ```books.json``` för data till era objekt. Välj själva vilka de
 
 Skapa en valfri, egen applikation som använder sig av props. Det ligger .json-filer i assets med en massa material ni kan använda er utav.  
 
-## React Bootcamp
-[I detta dokument](https://docs.google.com/document/d/15Ez_E2d3mh7NuDa60A3Lj-4rZZc52eN7I05PhYwtvk8/edit?usp=sharing) finner ni uppgifter som ni nu för kunna utföra (bortsett från den sista delan som innefattar useState vilket vi kommer till nästa vecka).
-
